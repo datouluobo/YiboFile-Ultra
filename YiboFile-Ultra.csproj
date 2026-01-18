@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>YiboFile</RootNamespace>
+    <AssemblyName>YiboFile-Ultra</AssemblyName>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YiboFile-Core\YiboFile-Core.csproj" />
+    <ProjectReference Include="..\YiboFile-Pro\YiboFile-Pro.csproj" />
+  </ItemGroup>
+</Project>
