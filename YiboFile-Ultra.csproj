@@ -8,9 +8,9 @@
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <AssemblyVersion>1.0.172.0</AssemblyVersion>
-    <FileVersion>1.0.172.0</FileVersion>
-    <Version>1.0.172.0</Version>
+    <AssemblyVersion>1.0.182.0</AssemblyVersion>
+    <FileVersion>1.0.182.0</FileVersion>
+    <Version>1.0.182.0</Version>
     <ApplicationIcon>..\Icon\Logo.ico</ApplicationIcon>
   </PropertyGroup>
 
