@@ -8,9 +8,10 @@
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <AssemblyVersion>1.0.3480.0</AssemblyVersion>
-    <FileVersion>1.0.3480.0</FileVersion>
-    <Version>1.0.3480.0</Version>
+    <NoWarn>$(NoWarn);NU1701</NoWarn>
+    <AssemblyVersion>1.0.3510.0</AssemblyVersion>
+    <FileVersion>1.0.3510.0</FileVersion>
+    <Version>1.0.3510.0</Version>
 
     <ApplicationIcon>..\Icon\Logo.ico</ApplicationIcon>
   </PropertyGroup>
