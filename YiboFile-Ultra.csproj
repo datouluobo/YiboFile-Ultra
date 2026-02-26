@@ -9,12 +9,15 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <NoWarn>$(NoWarn);NU1701</NoWarn>
-    <AssemblyVersion>1.0.3610.0</AssemblyVersion>
-    <FileVersion>1.0.3610.0</FileVersion>
-    <Version>1.0.3610.0</Version>
+    <AssemblyVersion>1.0.3620.0</AssemblyVersion>
+    <FileVersion>1.0.3620.0</FileVersion>
+    <Version>1.0.3620.0</Version>
 
     <ApplicationIcon>..\Icon\Logo.ico</ApplicationIcon>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Magick.NET-Q16-AnyCPU" Version="14.10.3" />
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\YiboFile-Core\YiboFile-Core.csproj" />

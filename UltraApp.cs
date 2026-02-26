@@ -4,7 +4,7 @@ using YiboFile.Services.Features;
 
 namespace YiboFile
 {
-    public class UltraApp : YiboFile.App
+    public partial class UltraApp : YiboFile.App
     {
         protected override void ConfigureServices(IServiceCollection services)
         {
