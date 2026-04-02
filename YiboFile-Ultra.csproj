@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net8.0-windows</TargetFramework>
@@ -9,9 +9,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <NoWarn>$(NoWarn);NU1701</NoWarn>
-    <AssemblyVersion>1.0.3800.0</AssemblyVersion>
-    <FileVersion>1.0.3800.0</FileVersion>
-    <Version>1.0.3800.0</Version>
+    <AssemblyVersion>1.0.3820.0</AssemblyVersion>
+    <FileVersion>1.0.3820.0</FileVersion>
+    <Version>1.0.3820.0</Version>
 
     <ApplicationIcon>..\Icon\Logo.ico</ApplicationIcon>
   </PropertyGroup>
@@ -29,3 +29,4 @@
     <ProjectReference Include="..\YiboFile-Pro\YiboFile-Pro.csproj" />
   </ItemGroup>
 </Project>
+
